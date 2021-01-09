@@ -1,0 +1,18 @@
+1. I created a db.json file and I added API json data to that file.
+
+2. When you run json-server --watch db.json . This kickstarts a server pointing to local host 3000. The information displays the API JSON data created in the db.sjon file.
+
+  Loading db.json
+  Done
+
+  Resources
+  http://localhost:3000/results
+  http://localhost:3000/info
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+  
