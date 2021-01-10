@@ -30,3 +30,5 @@ This will listen to the db.json file
 Go to the Test directory to run all the tests
 
 Script to run:  `npm test`
+
+**I have covered Get,Post,Put,Delete Requests**
